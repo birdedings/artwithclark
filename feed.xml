@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>artwithclark</title>
+    <link href="https://artwithclark.com/feed.xml" rel="self" />
+    <link href="https://artwithclark.com" />
+    <updated>2026-11-17T20:29:51-05:00</updated>
+    <author>
+        <name>Clark Ye</name>
+    </author>
+    <id>https://artwithclark.com</id>
+
+    <entry>
+        <title>artwithclark</title>
+        <author>
+            <name>Clark Ye</name>
+        </author>
+        <link href="https://artwithclark.com/artwithclark/"/>
+        <id>https://artwithclark.com/artwithclark/</id>
+
+        <updated>2026-11-17T20:29:51-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A site detailing my creative endeavors
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">A site detailing my creative endeavors</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
